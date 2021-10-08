@@ -1,1 +1,13 @@
+# common files
+.*
+
+# common folders
+__*__/
+.*/
+
+# project folder
 /temps/
+
+# exception folder
+!.gitignore
+!.keep
